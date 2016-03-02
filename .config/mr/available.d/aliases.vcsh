@@ -1,0 +1,3 @@
+[$HOME/.config/vcsh/repo.d/aliases.git]
+checkout = vcsh clone https://github.com/elerch/vcsh_aliases.git aliases
+
