@@ -1,2 +1,2 @@
 [$HOME/.config/vcsh/repo.d/vim.git]
-checkout = vcsh clone https://github.com/elerch/vim.git vim
+checkout = vcsh clone https://github.com/elerch/vcsh_vim.git vim
