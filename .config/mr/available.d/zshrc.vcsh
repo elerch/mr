@@ -1,0 +1,3 @@
+[$HOME/.config/vcsh/repo.d/zshrc.git]
+checkout = vcsh clone https://github.com/elerch/vcsh_zshrc.git zshrc
+
