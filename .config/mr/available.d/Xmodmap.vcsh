@@ -1,0 +1,3 @@
+[$HOME/.config/vcsh/repo.d/Xmodmap.git]
+checkout = vcsh clone https://github.com/elerch/vcsh_Xmodmap.git Xmodmap
+
