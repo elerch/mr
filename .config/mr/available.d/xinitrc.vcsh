@@ -1,0 +1,3 @@
+[$HOME/.config/vcsh/repo.d/xinitrc.git]
+checkout = vcsh clone https://github.com/elerch/vcsh_xinitrc.git xinitrc
+
