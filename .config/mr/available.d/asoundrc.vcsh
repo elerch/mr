@@ -1,0 +1,3 @@
+[$HOME/.config/vcsh/repo.d/asoundrc.git]
+checkout = vcsh clone https://github.com/elerch/vcsh_asoundrc.git asoundrc
+
