@@ -1,0 +1,3 @@
+[$HOME/.config/vcsh/repo.d/gtkrc-2.0.git]
+checkout = vcsh clone https://github.com/elerch/vcsh_gtkrc-2.0.git gtkrc-2.0
+
