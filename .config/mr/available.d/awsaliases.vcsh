@@ -1,0 +1,3 @@
+[$HOME/.config/vcsh/repo.d/awsaliases.git]
+checkout = vcsh clone https://github.com/elerch/vcsh_awsaliases.git awsaliases
+
