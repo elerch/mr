@@ -1,0 +1,2 @@
+[$HOME/.oh-my-bash-zsh]
+checkout = git clone 'https://github.com/elerch/oh-my-bash-zsh.git' $HOME/.oh-my-bash-zsh
