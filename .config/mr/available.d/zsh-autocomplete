@@ -1,0 +1,2 @@
+[$HOME/.zsh-autosuggestions]
+checkout = git clone git://github.com/zsh-users/zsh-autosuggestions $HOME/.zsh-autosuggestions
