@@ -1,0 +1,3 @@
+[$HOME/.config/vcsh/repo.d/dlrc.git]
+checkout = vcsh clone https://github.com/elerch/vcsh_dlrc.git dlrc
+
