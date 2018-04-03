@@ -1,0 +1,3 @@
+[$HOME/.config/vcsh/repo.d/i3config.git]
+checkout = vcsh clone  i3config
+
