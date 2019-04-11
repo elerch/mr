@@ -1,0 +1,3 @@
+[$HOME/.config/vcsh/repo.d/i3status.git]
+checkout = vcsh clone https://github.com/elerch/vcsh_i3status.git i3status
+
