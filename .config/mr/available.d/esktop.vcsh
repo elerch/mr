@@ -1,3 +1,0 @@
-[$HOME/.config/vcsh/repo.d/esktop.git]
-checkout = vcsh clone https://github.com/elerch/vcsh_esktop.git esktop
-
