@@ -1,2 +1,2 @@
 [$HOME/.qdarkss]
-checkout = git clone 'https://github.com/ColinDuquesnoy/QDarkStyleSheet' $HOME/.qdarkss
+checkout = git clone 'https://github.com/elerch/QDarkStyleSheet.git' $HOME/.qdarkss
