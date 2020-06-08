@@ -1,0 +1,3 @@
+[$HOME/.config/vcsh/repo.d/dunst.git]
+checkout = vcsh clone https://github.com/elerch/vcsh_dunst.git dunst
+
