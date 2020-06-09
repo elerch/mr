@@ -1,0 +1,3 @@
+[$HOME/.config/vcsh/repo.d/alacritty.git]
+checkout = vcsh clone https://github.com/elerch/vcsh_alacritty.git alacritty
+
