@@ -1,0 +1,3 @@
+[$HOME/.config/vcsh/repo.d/exports.git]
+checkout = vcsh clone https://github.com/elerch/vcsh_exports.git exports
+
