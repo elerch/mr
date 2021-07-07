@@ -1,2 +1,2 @@
 [$HOME/.liquidprompt]
-checkout = git clone -b aws-vault 'https://github.com/elerch/liquidprompt.git' $HOME/.liquidprompt
+checkout = git clone --depth 1 'https://github.com/nojhan/liquidprompt' $HOME/.liquidprompt
