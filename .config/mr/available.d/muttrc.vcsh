@@ -1,0 +1,3 @@
+[$HOME/.config/vcsh/repo.d/muttrc.git]
+checkout = vcsh clone https://github.com/elerch/vcsh_muttrc.git muttrc
+
