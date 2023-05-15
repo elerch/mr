@@ -1,0 +1,3 @@
+[$HOME/.config/vcsh/repo.d/mlterm.git]
+checkout = vcsh clone https://github.com/elerch/vcsh_mlterm.git mlterm
+
