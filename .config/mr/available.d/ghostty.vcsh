@@ -1,0 +1,3 @@
+[$HOME/.config/vcsh/repo.d/ghostty.git]
+checkout = vcsh clone https://github.com/elerch/vcsh_ghostty.git ghostty
+
