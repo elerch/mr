@@ -1,0 +1,3 @@
+[$HOME/.config/vcsh/repo.d/mise.git]
+checkout = vcsh clone https://github.com/elerch/vcsh_mise.git mise
+
